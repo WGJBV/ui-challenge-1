@@ -1,0 +1,108 @@
+/** {
+  border: 1px solid red;
+}*/
+img {
+  background-color: blue;
+}
+img#a {
+  width: 959px;
+  height: 99px;
+}
+li#a {
+  width: 960;
+  height: 100px;
+}
+img#b {
+  width: 199px;
+  height: 599px;
+}
+li#b {
+  width: 200px;
+  height: 600px;
+}
+img#c {
+  width: 379px;
+  height: 199px;
+}
+li#c {
+  width: 380px;
+  height: 200px;
+}
+img#d {
+  width: 379px;
+  height: 199px;
+}
+li#d {
+  width: 380px;
+  height: 200px;
+}
+img#e {
+  width: 189px;
+  height: 249px;
+}
+li#e {
+  width: 190px;
+  height: 250px;
+}
+img#f {
+  width: 189px;
+  height: 249px;
+}
+li#f {
+  width: 190px;
+  height: 250px;
+}
+img#g {
+  width: 189px;
+  height: 249px;
+}
+li#g {
+  width: 190px;
+  height: 250px;
+}
+img#h {
+  width: 189px;
+  height: 249px;
+}
+li#h {
+  width: 190px;
+  height: 250px;
+}
+img#i {
+  width: 759px;
+  height: 149px;
+}
+li#i {
+  width: 760px;
+  height: 150px;
+}
+section#a-block {
+  width: 960px;
+  height: 100px;
+}
+section#b-block {
+  width: 200px;
+  height: 600px;
+  display: inline;
+}
+section#c-block {
+  width: 380px;
+  height: 450px;
+  float: left;
+  display: inline;
+}
+section#d-block {
+  width: 380px;
+  height: 450px;
+  float: left;
+  display: inline;
+}
+li {
+  list-style-type : none;
+  display: inline;
+  float: left;
+}
+ul {
+  padding: 0px;
+  margin: 0px;
+}
